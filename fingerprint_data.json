@@ -1,0 +1,317 @@
+[
+  {
+    "fingerprint": "xIYVJTn3f2RiDf2lKY8E",
+    "visitorData": [
+      {
+        "requestId": "1733938308337.zfH8HY",
+        "browserName": "Chrome",
+        "browserVersion": "120.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:48.344Z",
+          "subscription": "2024-12-11T17:31:48.344Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Windows",
+        "osVersion": "10",
+        "visitorFound": false,
+        "visitorId": "xIYVJTn3f2RiDf2lKY8E",
+        "cacheHit": false
+      }
+    ]
+  },
+  {
+    "fingerprint": "rafoxx08tkUJlAbC84YN",
+    "visitorData": [
+      {
+        "requestId": "1733938310300.YpsHQg",
+        "browserName": "Chrome",
+        "browserVersion": "118.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:50.309Z",
+          "subscription": "2024-12-11T17:31:50.309Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Mac OS X",
+        "osVersion": "10.15.7",
+        "visitorFound": false,
+        "visitorId": "rafoxx08tkUJlAbC84YN",
+        "cacheHit": false
+      },
+      {
+        "requestId": "1733938317627.ocLJ59",
+        "browserName": "Chrome",
+        "browserVersion": "118.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 0.98
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:50.309Z",
+          "subscription": "2024-12-11T17:31:50.309Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": "2024-12-11T17:31:50.309Z",
+          "subscription": "2024-12-11T17:31:50.309Z"
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Mac OS X",
+        "osVersion": "10.15.7",
+        "visitorFound": true,
+        "visitorId": "rafoxx08tkUJlAbC84YN",
+        "cacheHit": false
+      },
+      {
+        "requestId": "1733938321317.bRo2W8",
+        "browserName": "Chrome",
+        "browserVersion": "118.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 0.95
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:50.309Z",
+          "subscription": "2024-12-11T17:31:50.309Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": "2024-12-11T17:31:57.636Z",
+          "subscription": "2024-12-11T17:31:57.636Z"
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Mac OS X",
+        "osVersion": "10.15.7",
+        "visitorFound": true,
+        "visitorId": "rafoxx08tkUJlAbC84YN",
+        "cacheHit": false
+      },
+      {
+        "requestId": "1733938324964.paAUz2",
+        "browserName": "Chrome",
+        "browserVersion": "118.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 0.95
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:50.309Z",
+          "subscription": "2024-12-11T17:31:50.309Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": "2024-12-11T17:32:01.326Z",
+          "subscription": "2024-12-11T17:32:01.326Z"
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Mac OS X",
+        "osVersion": "10.15.7",
+        "visitorFound": true,
+        "visitorId": "rafoxx08tkUJlAbC84YN",
+        "cacheHit": false
+      }
+    ]
+  },
+  {
+    "fingerprint": "5FR2wTqoAoZgH2S9Kfg9",
+    "visitorData": [
+      {
+        "requestId": "1733938312157.01CUCb",
+        "browserName": "Chrome",
+        "browserVersion": "120.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:52.17Z",
+          "subscription": "2024-12-11T17:31:52.17Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Windows",
+        "osVersion": "10",
+        "visitorFound": false,
+        "visitorId": "5FR2wTqoAoZgH2S9Kfg9",
+        "cacheHit": false
+      }
+    ]
+  },
+  {
+    "fingerprint": "JP3AutyEL8BR8iYv1BTf",
+    "visitorData": [
+      {
+        "requestId": "1733938313974.v9V8TW",
+        "browserName": "Chrome",
+        "browserVersion": "118.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:53.982Z",
+          "subscription": "2024-12-11T17:31:53.982Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Mac OS X",
+        "osVersion": "10.15.7",
+        "visitorFound": false,
+        "visitorId": "JP3AutyEL8BR8iYv1BTf",
+        "cacheHit": false
+      }
+    ]
+  },
+  {
+    "fingerprint": "C03ujYGDFtUYbExsp9rp",
+    "visitorData": [
+      {
+        "requestId": "1733938315822.lfpXpC",
+        "browserName": "Chrome",
+        "browserVersion": "120.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:55.829Z",
+          "subscription": "2024-12-11T17:31:55.829Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Windows",
+        "osVersion": "10",
+        "visitorFound": false,
+        "visitorId": "C03ujYGDFtUYbExsp9rp",
+        "cacheHit": false
+      }
+    ]
+  },
+  {
+    "fingerprint": "OWgLHxexwyCV1hu9VSMd",
+    "visitorData": [
+      {
+        "requestId": "1733938319451.0b0Fda",
+        "browserName": "Chrome",
+        "browserVersion": "120.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:31:59.458Z",
+          "subscription": "2024-12-11T17:31:59.458Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Windows",
+        "osVersion": "10",
+        "visitorFound": false,
+        "visitorId": "OWgLHxexwyCV1hu9VSMd",
+        "cacheHit": false
+      }
+    ]
+  },
+  {
+    "fingerprint": "aQXLAVOE1DyBpxIGPNMf",
+    "visitorData": [
+      {
+        "requestId": "1733938323185.yuCQCN",
+        "browserName": "Chrome",
+        "browserVersion": "120.0.0",
+        "confidence": {
+          "revision": "v1.1",
+          "score": 1
+        },
+        "device": "Other",
+        "firstSeenAt": {
+          "global": "2024-12-11T17:32:03.194Z",
+          "subscription": "2024-12-11T17:32:03.194Z"
+        },
+        "incognito": true,
+        "ip": "189.78.251.163",
+        "lastSeenAt": {
+          "global": null,
+          "subscription": null
+        },
+        "meta": {
+          "version": "v1.1.2995+6f9b15171"
+        },
+        "os": "Windows",
+        "osVersion": "10",
+        "visitorFound": false,
+        "visitorId": "aQXLAVOE1DyBpxIGPNMf",
+        "cacheHit": false
+      }
+    ]
+  }
+]
